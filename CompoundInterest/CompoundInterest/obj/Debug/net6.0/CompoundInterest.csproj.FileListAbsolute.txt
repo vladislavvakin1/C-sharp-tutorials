@@ -1,0 +1,15 @@
+C:\Users\Vladislav Vakin\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net6.0\CompoundInterest.csproj.AssemblyReference.cache
+C:\Users\Vladislav Vakin\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net6.0\CompoundInterest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladislav Vakin\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net6.0\CompoundInterest.AssemblyInfoInputs.cache
+C:\Users\Vladislav Vakin\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net6.0\CompoundInterest.AssemblyInfo.cs
+C:\Users\Vladislav Vakin\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net6.0\CompoundInterest.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav Vakin\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net6.0\CompoundInterest.exe
+C:\Users\Vladislav Vakin\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net6.0\CompoundInterest.deps.json
+C:\Users\Vladislav Vakin\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net6.0\CompoundInterest.runtimeconfig.json
+C:\Users\Vladislav Vakin\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net6.0\CompoundInterest.dll
+C:\Users\Vladislav Vakin\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net6.0\CompoundInterest.pdb
+C:\Users\Vladislav Vakin\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net6.0\CompoundInterest.dll
+C:\Users\Vladislav Vakin\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net6.0\refint\CompoundInterest.dll
+C:\Users\Vladislav Vakin\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net6.0\CompoundInterest.pdb
+C:\Users\Vladislav Vakin\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net6.0\CompoundInterest.genruntimeconfig.cache
+C:\Users\Vladislav Vakin\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net6.0\ref\CompoundInterest.dll
