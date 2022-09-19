@@ -1,0 +1,15 @@
+C:\Users\Vladislav Vakin\source\repos\EnumTraining\EnumTraining\obj\Debug\net6.0\EnumTraining.csproj.AssemblyReference.cache
+C:\Users\Vladislav Vakin\source\repos\EnumTraining\EnumTraining\obj\Debug\net6.0\EnumTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladislav Vakin\source\repos\EnumTraining\EnumTraining\obj\Debug\net6.0\EnumTraining.AssemblyInfoInputs.cache
+C:\Users\Vladislav Vakin\source\repos\EnumTraining\EnumTraining\obj\Debug\net6.0\EnumTraining.AssemblyInfo.cs
+C:\Users\Vladislav Vakin\source\repos\EnumTraining\EnumTraining\obj\Debug\net6.0\EnumTraining.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav Vakin\source\repos\EnumTraining\EnumTraining\bin\Debug\net6.0\EnumTraining.exe
+C:\Users\Vladislav Vakin\source\repos\EnumTraining\EnumTraining\bin\Debug\net6.0\EnumTraining.deps.json
+C:\Users\Vladislav Vakin\source\repos\EnumTraining\EnumTraining\bin\Debug\net6.0\EnumTraining.runtimeconfig.json
+C:\Users\Vladislav Vakin\source\repos\EnumTraining\EnumTraining\bin\Debug\net6.0\EnumTraining.dll
+C:\Users\Vladislav Vakin\source\repos\EnumTraining\EnumTraining\bin\Debug\net6.0\EnumTraining.pdb
+C:\Users\Vladislav Vakin\source\repos\EnumTraining\EnumTraining\obj\Debug\net6.0\EnumTraining.dll
+C:\Users\Vladislav Vakin\source\repos\EnumTraining\EnumTraining\obj\Debug\net6.0\refint\EnumTraining.dll
+C:\Users\Vladislav Vakin\source\repos\EnumTraining\EnumTraining\obj\Debug\net6.0\EnumTraining.pdb
+C:\Users\Vladislav Vakin\source\repos\EnumTraining\EnumTraining\obj\Debug\net6.0\EnumTraining.genruntimeconfig.cache
+C:\Users\Vladislav Vakin\source\repos\EnumTraining\EnumTraining\obj\Debug\net6.0\ref\EnumTraining.dll
