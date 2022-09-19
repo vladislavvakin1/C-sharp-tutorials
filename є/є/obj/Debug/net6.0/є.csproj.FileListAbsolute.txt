@@ -1,0 +1,15 @@
+C:\Users\Vladislav Vakin\source\repos\є\є\bin\Debug\net6.0\є.exe
+C:\Users\Vladislav Vakin\source\repos\є\є\bin\Debug\net6.0\є.deps.json
+C:\Users\Vladislav Vakin\source\repos\є\є\bin\Debug\net6.0\є.runtimeconfig.json
+C:\Users\Vladislav Vakin\source\repos\є\є\bin\Debug\net6.0\є.dll
+C:\Users\Vladislav Vakin\source\repos\є\є\bin\Debug\net6.0\є.pdb
+C:\Users\Vladislav Vakin\source\repos\є\є\obj\Debug\net6.0\є.csproj.AssemblyReference.cache
+C:\Users\Vladislav Vakin\source\repos\є\є\obj\Debug\net6.0\є.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladislav Vakin\source\repos\є\є\obj\Debug\net6.0\є.AssemblyInfoInputs.cache
+C:\Users\Vladislav Vakin\source\repos\є\є\obj\Debug\net6.0\є.AssemblyInfo.cs
+C:\Users\Vladislav Vakin\source\repos\є\є\obj\Debug\net6.0\є.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav Vakin\source\repos\є\є\obj\Debug\net6.0\є.dll
+C:\Users\Vladislav Vakin\source\repos\є\є\obj\Debug\net6.0\refint\є.dll
+C:\Users\Vladislav Vakin\source\repos\є\є\obj\Debug\net6.0\є.pdb
+C:\Users\Vladislav Vakin\source\repos\є\є\obj\Debug\net6.0\є.genruntimeconfig.cache
+C:\Users\Vladislav Vakin\source\repos\є\є\obj\Debug\net6.0\ref\є.dll
