@@ -1,0 +1,15 @@
+C:\Users\Vladislav Vakin\source\repos\funnyPoem\funnyPoem\obj\Debug\net6.0\funnyPoem.csproj.AssemblyReference.cache
+C:\Users\Vladislav Vakin\source\repos\funnyPoem\funnyPoem\obj\Debug\net6.0\funnyPoem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladislav Vakin\source\repos\funnyPoem\funnyPoem\obj\Debug\net6.0\funnyPoem.AssemblyInfoInputs.cache
+C:\Users\Vladislav Vakin\source\repos\funnyPoem\funnyPoem\obj\Debug\net6.0\funnyPoem.AssemblyInfo.cs
+C:\Users\Vladislav Vakin\source\repos\funnyPoem\funnyPoem\obj\Debug\net6.0\funnyPoem.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav Vakin\source\repos\funnyPoem\funnyPoem\bin\Debug\net6.0\funnyPoem.exe
+C:\Users\Vladislav Vakin\source\repos\funnyPoem\funnyPoem\bin\Debug\net6.0\funnyPoem.deps.json
+C:\Users\Vladislav Vakin\source\repos\funnyPoem\funnyPoem\bin\Debug\net6.0\funnyPoem.runtimeconfig.json
+C:\Users\Vladislav Vakin\source\repos\funnyPoem\funnyPoem\bin\Debug\net6.0\funnyPoem.dll
+C:\Users\Vladislav Vakin\source\repos\funnyPoem\funnyPoem\bin\Debug\net6.0\funnyPoem.pdb
+C:\Users\Vladislav Vakin\source\repos\funnyPoem\funnyPoem\obj\Debug\net6.0\funnyPoem.dll
+C:\Users\Vladislav Vakin\source\repos\funnyPoem\funnyPoem\obj\Debug\net6.0\refint\funnyPoem.dll
+C:\Users\Vladislav Vakin\source\repos\funnyPoem\funnyPoem\obj\Debug\net6.0\funnyPoem.pdb
+C:\Users\Vladislav Vakin\source\repos\funnyPoem\funnyPoem\obj\Debug\net6.0\funnyPoem.genruntimeconfig.cache
+C:\Users\Vladislav Vakin\source\repos\funnyPoem\funnyPoem\obj\Debug\net6.0\ref\funnyPoem.dll
