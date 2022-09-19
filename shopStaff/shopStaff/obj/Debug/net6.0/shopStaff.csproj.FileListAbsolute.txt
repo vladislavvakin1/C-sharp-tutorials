@@ -1,0 +1,15 @@
+C:\Users\Vladislav Vakin\source\repos\shopStaff\shopStaff\bin\Debug\net6.0\shopStaff.exe
+C:\Users\Vladislav Vakin\source\repos\shopStaff\shopStaff\bin\Debug\net6.0\shopStaff.deps.json
+C:\Users\Vladislav Vakin\source\repos\shopStaff\shopStaff\bin\Debug\net6.0\shopStaff.runtimeconfig.json
+C:\Users\Vladislav Vakin\source\repos\shopStaff\shopStaff\bin\Debug\net6.0\shopStaff.dll
+C:\Users\Vladislav Vakin\source\repos\shopStaff\shopStaff\bin\Debug\net6.0\shopStaff.pdb
+C:\Users\Vladislav Vakin\source\repos\shopStaff\shopStaff\obj\Debug\net6.0\shopStaff.csproj.AssemblyReference.cache
+C:\Users\Vladislav Vakin\source\repos\shopStaff\shopStaff\obj\Debug\net6.0\shopStaff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladislav Vakin\source\repos\shopStaff\shopStaff\obj\Debug\net6.0\shopStaff.AssemblyInfoInputs.cache
+C:\Users\Vladislav Vakin\source\repos\shopStaff\shopStaff\obj\Debug\net6.0\shopStaff.AssemblyInfo.cs
+C:\Users\Vladislav Vakin\source\repos\shopStaff\shopStaff\obj\Debug\net6.0\shopStaff.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav Vakin\source\repos\shopStaff\shopStaff\obj\Debug\net6.0\shopStaff.dll
+C:\Users\Vladislav Vakin\source\repos\shopStaff\shopStaff\obj\Debug\net6.0\refint\shopStaff.dll
+C:\Users\Vladislav Vakin\source\repos\shopStaff\shopStaff\obj\Debug\net6.0\shopStaff.pdb
+C:\Users\Vladislav Vakin\source\repos\shopStaff\shopStaff\obj\Debug\net6.0\shopStaff.genruntimeconfig.cache
+C:\Users\Vladislav Vakin\source\repos\shopStaff\shopStaff\obj\Debug\net6.0\ref\shopStaff.dll
